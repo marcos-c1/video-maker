@@ -16,5 +16,8 @@
     "url": "https://github.com/marcos-c1/video-maker/issues"
   },
   "homepage": "https://github.com/marcos-c1/video-maker#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
